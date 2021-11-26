@@ -1,1 +1,7 @@
 Temp/UnityLockfile
+./Temp
+./Library
+./obj
+
+*.*proj
+*.sln
